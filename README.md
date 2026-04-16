@@ -65,7 +65,7 @@ This project demonstrates how to build an AI system that can:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/multi-modal-rag-chatbot.git
+git clone https://github.com/selvvinnn/multi-modal-rag-chatbot.git
 cd multi-modal-rag-chatbot
 
 python -m venv venv
