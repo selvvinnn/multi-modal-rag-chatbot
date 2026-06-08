@@ -1,3 +1,3 @@
-from rag import run_ingestion
+from rag import run_complete_ingestion_pipeline
 
-run_ingestion()
+run_complete_ingestion_pipeline("./docs/prachis_organics_KB.pdf")
